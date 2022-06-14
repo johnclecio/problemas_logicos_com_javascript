@@ -9,7 +9,7 @@
 # Impar ou Par
 # Baskara
  :green_square: valor de B e C
-# Converte Moedas :dollar:
+# Converter Moedas :dollar:
 :green_square:Dolar para Reais
 # let
 Foi pensando em trazer o escopo de bloco (tão conhecido em outras linguagens) que o ECMAScript 6 destinou-se a disponibilizar essa mesma flexibilidade (e uniformidade) para a linguagem.
